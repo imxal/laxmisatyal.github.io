@@ -1,0 +1,67 @@
+body {
+    background-color:black;
+    color: #f3f4f6;
+    padding-top:10em;
+    text-align: center;
+}
+.bg{
+   
+    
+        background-image: url("laxmi2.jpg");
+      
+       
+        height: 100%;
+      
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+
+
+
+      h1{
+         
+        
+          text-align:left;
+      }
+.def{
+    text-align: left;
+    font-size: 30px;
+    font-style: italic;
+    padding:50px;
+}
+
+      .navbar {
+        padding: 0;
+        margin-top: 35px;
+        font-size: 19px;
+    }
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+       
+    }
+   ul li{
+       display: inline-block;
+       padding-bottom: 100px;
+   }
+    
+   a:hover, a:active {text-decoration: underline;}
+
+   .nav-link {
+    color: #d9d7e3;
+   }
+  
+  
+   
+ 
+  
+  * { color:#fff; text-decoration: none;}
+
+
