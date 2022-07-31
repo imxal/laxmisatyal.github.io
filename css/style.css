@@ -4,24 +4,35 @@ body {
     padding-top:10em;
     text-align: center;
 }
+
+.mycol{
+    height:697px;
+    width: 50%;
+    float: left;
+}
+.mycol2{
+    height:697px;
+    width: 50%;
+    float: right;
+}
+.img-fluid {
+    max-width: 50%;
+    }
+/*
 .bg{
-   
-    
         background-image: url("laxmi2.jpg");
       
-       
         height: 100%;
         
       
         background-position: center;
         background-repeat: no-repeat;
-
-       
         background-size: 100% 100%;
+       
               }
 
 
-
+*/
 
       h1{
          
